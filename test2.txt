@@ -1,8 +1,2 @@
 hello github
-test2
-test3
-test4
-
-春
-夏
-秋
+合并测试
